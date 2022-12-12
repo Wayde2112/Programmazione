@@ -1,0 +1,5 @@
+Value:      Bw.8Q~y~OIlhAxedM07BQc2dAwW9~waXZZwz-cbt
+Secret ID:  6a200b94-ae47-4b67-a2b1-d81e3021acbe
+
+Application (client) ID: bf2e3a98-d105-4ff5-9bd8-07288f175dc0
+Directory (tenant) ID: 1954a071-45e7-4bf4-992c-90bb31b3f92a
