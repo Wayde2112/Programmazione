@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th = "https://www.thymeleaf.org">
+
+	<head>
+		<meta charset = "utf-8">
+		<title th:text = "${titolo}"></title>
+	</head>
+	
+	<body>
+	
+		<h1 th:text = "${titolo}"></h1>
+		
+		<table>
+
+			<th>
+				<td>Id</td>
+				<td>Titolo</td>
+				<td>Descrizione</td>
+				<td>Genere</td>
+				<td>Anno di Pubblicazione</td>
+				<td>Durata</td>
+				<td>Regista</td>
+				<td>Cast</td>
+				<td>Genere</td>
+			<th>
+
+			<tr th:each="film: ${listaFilm}">
+				<td th:each="${film.id}"></td>
+				<td th:each="${film.titolo}"></td>
+				<td th:each="${film.descrizione}"></td>
+				<td th:each="${film.annoPubblicazione}"></td>
+				<td th:each="${film.durata}"></td>
+				<td th:each="${film.regista}"></td>
+				<td th:each="${film.cast}"></td>
+				<td th:each="${film.genere}"></td>
+				<td><button class="btn btn-primary">Update</button></td>
+				<td><button class="btn btn-primary">Delete</button></td>
+		</table>
+		
+	</body>
+	
+</html>

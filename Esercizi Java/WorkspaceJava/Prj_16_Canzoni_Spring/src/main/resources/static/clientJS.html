@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset =" utf-8">
+		<title>Insert title here</title>
+	</head>
+	
+	<body>
+	
+		<script type="text/javascript">
+		
+			const URL = "api/canzoni";
+			
+			const xhr = new XMLHttpRequest()
+
+            const TABELLA = document.createElement("table")
+
+            xhr.onreadystatechange = function() {
+                console.log("Nuovo stato ready", xhr.readyState);
+                console.log("Nuovo stato", xhr.status);
+
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    let objJS = JSON.parse(xhr.response)
+                    // console.log(objJS)
+                    for (const canzone of objJS) {
+                        const TR = document.createElement('tr')
+                        const TD = document.createElement('td')
+                        TD.textContent = canzone.titolo
+                        console.log(canzone.titolo)
+                        TR.appendChild(TD)
+                        TABELLA.appendChild(TR)
+                    }
+                    document.body.appendChild(TABELLA)
+                }
+            }
+
+            xhr.open('GET', URL)
+            xhr.send()
+			
+		</script>
+		
+	</body>
+	
+</html>
