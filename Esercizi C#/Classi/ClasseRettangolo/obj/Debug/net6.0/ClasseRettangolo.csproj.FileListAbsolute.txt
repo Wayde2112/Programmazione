@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\bin\Debug\net6.0\ClasseRettangolo.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\bin\Debug\net6.0\ClasseRettangolo.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\bin\Debug\net6.0\ClasseRettangolo.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\bin\Debug\net6.0\ClasseRettangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\bin\Debug\net6.0\ref\ClasseRettangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\bin\Debug\net6.0\ClasseRettangolo.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ref\ClasseRettangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseRettangolo\obj\Debug\net6.0\ClasseRettangolo.genruntimeconfig.cache

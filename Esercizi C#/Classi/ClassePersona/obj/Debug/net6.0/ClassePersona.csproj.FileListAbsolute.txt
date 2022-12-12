@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\bin\Debug\net6.0\ClassePersona.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\bin\Debug\net6.0\ClassePersona.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\bin\Debug\net6.0\ClassePersona.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\bin\Debug\net6.0\ClassePersona.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\bin\Debug\net6.0\ref\ClassePersona.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\bin\Debug\net6.0\ClassePersona.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ref\ClassePersona.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClassePersona\obj\Debug\net6.0\ClassePersona.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\bin\Debug\net6.0\ClasseTriangolo.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\bin\Debug\net6.0\ClasseTriangolo.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\bin\Debug\net6.0\ClasseTriangolo.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\bin\Debug\net6.0\ClasseTriangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\bin\Debug\net6.0\ref\ClasseTriangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\bin\Debug\net6.0\ClasseTriangolo.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ref\ClasseTriangolo.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseTriangolo\obj\Debug\net6.0\ClasseTriangolo.genruntimeconfig.cache

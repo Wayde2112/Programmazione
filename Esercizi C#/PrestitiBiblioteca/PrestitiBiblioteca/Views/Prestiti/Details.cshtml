@@ -1,0 +1,58 @@
+﻿@model PrestitiBiblioteca.Models.Prestito
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Prestito</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DataPrestito)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataPrestito)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataScadenza)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataScadenza)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataRestituzione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataRestituzione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Libro.Autore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Libro.Autore)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Studente.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Studente.Nome)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

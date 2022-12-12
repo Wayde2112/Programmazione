@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PrestitiBibliotecaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Libro">
+    <Key>
+      <PropertyRef Name="Codice" />
+    </Key>
+    <Property Name="Codice" Type="Int32" Nullable="false" />
+    <Property Name="Autore" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Titolo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Editore" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Anno" Type="Int32" />
+    <Property Name="Luogo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Pagine" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Classificazione" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Collocazione" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Copie" Type="Int32" />
+    <NavigationProperty Name="Prestito" Relationship="Self.FK_Prestito_Libro" FromRole="Libro" ToRole="Prestito" />
+  </EntityType>
+  <EntityType Name="Prestito">
+    <Key>
+      <PropertyRef Name="IdLibro" />
+      <PropertyRef Name="Matricola" />
+    </Key>
+    <Property Name="IdLibro" Type="Int32" Nullable="false" />
+    <Property Name="Matricola" Type="Int32" Nullable="false" />
+    <Property Name="DataPrestito" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="DataScadenza" Type="DateTime" Precision="3" />
+    <Property Name="DataRestituzione" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Libro" Relationship="Self.FK_Prestito_Libro" FromRole="Prestito" ToRole="Libro" />
+    <NavigationProperty Name="Studente" Relationship="Self.FK_Prestito_Studente" FromRole="Prestito" ToRole="Studente" />
+  </EntityType>
+  <EntityType Name="Studente">
+    <Key>
+      <PropertyRef Name="Matricola" />
+    </Key>
+    <Property Name="Matricola" Type="Int32" Nullable="false" />
+    <Property Name="Nome" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cognome" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Classe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Prestito" Relationship="Self.FK_Prestito_Studente" FromRole="Studente" ToRole="Prestito" />
+  </EntityType>
+  <Association Name="FK_Prestito_Libro">
+    <End Role="Libro" Type="Self.Libro" Multiplicity="1" />
+    <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Libro">
+        <PropertyRef Name="Codice" />
+      </Principal>
+      <Dependent Role="Prestito">
+        <PropertyRef Name="IdLibro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Prestito_Studente">
+    <End Role="Studente" Type="Self.Studente" Multiplicity="1" />
+    <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Studente">
+        <PropertyRef Name="Matricola" />
+      </Principal>
+      <Dependent Role="Prestito">
+        <PropertyRef Name="Matricola" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PrestitiBibliotecaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Libro" EntityType="Self.Libro" />
+    <EntitySet Name="Prestito" EntityType="Self.Prestito" />
+    <EntitySet Name="Studente" EntityType="Self.Studente" />
+    <AssociationSet Name="FK_Prestito_Libro" Association="Self.FK_Prestito_Libro">
+      <End Role="Libro" EntitySet="Libro" />
+      <End Role="Prestito" EntitySet="Prestito" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Prestito_Studente" Association="Self.FK_Prestito_Studente">
+      <End Role="Studente" EntitySet="Studente" />
+      <End Role="Prestito" EntitySet="Prestito" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

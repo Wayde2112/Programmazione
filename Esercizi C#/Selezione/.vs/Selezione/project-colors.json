@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05be88a0-fe6a-4d65-b1d7-3f7d04168fa2": {
+      "ProjectGuid": "05be88a0-fe6a-4d65-b1d7-3f7d04168fa2",
+      "DisplayName": "PariDispari",
+      "ColorIndex": 0
+    },
+    "f43302ff-7322-48ab-a641-7322d1f0dcb1": {
+      "ProjectGuid": "f43302ff-7322-48ab-a641-7322d1f0dcb1",
+      "DisplayName": "GiornoSettimana",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

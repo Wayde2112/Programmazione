@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\bin\Debug\net6.0\ClasseAuto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\bin\Debug\net6.0\ClasseAuto.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\bin\Debug\net6.0\ClasseAuto.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\bin\Debug\net6.0\ClasseAuto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\bin\Debug\net6.0\ref\ClasseAuto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\bin\Debug\net6.0\ClasseAuto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ref\ClasseAuto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseAuto\obj\Debug\net6.0\ClasseAuto.genruntimeconfig.cache

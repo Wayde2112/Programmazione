@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d3c84f4-f257-49be-99eb-ddea8bd54111": {
+      "ProjectGuid": "2d3c84f4-f257-49be-99eb-ddea8bd54111",
+      "DisplayName": "QuadratoNSommaDispari",
+      "ColorIndex": 0
+    },
+    "e644ddc5-d779-4ca1-ad77-397f85869bfd": {
+      "ProjectGuid": "e644ddc5-d779-4ca1-ad77-397f85869bfd",
+      "DisplayName": "MaxNInteri",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

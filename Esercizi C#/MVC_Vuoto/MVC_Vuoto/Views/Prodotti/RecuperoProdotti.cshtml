@@ -1,0 +1,65 @@
+﻿@model MVC_Vuoto.Models.ProdottoViewModel
+
+@{
+    ViewData["Title"] = "RecuperoProdotti";
+}
+
+<h1>RecuperoProdotti</h1>
+
+<div>
+    <h4>ProdottoViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Codice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Codice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descrizione)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descrizione)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Prezzo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Prezzo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Giacenza)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Giacenza)
+        </dd>
+    </dl>
+
+    <div>
+        @{
+            if (Model.IsProdottoInScorta())
+            {
+                <p>Prodotto in scorta</p>
+            }
+            else if (Model.IsProdottoEsaurito())
+            {
+                <p>Prodotto esaurito</p>
+            }
+            else
+            {
+                <p>Prodotto disponibile</p>
+            }
+        }        
+    </div>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="FormProdotto">Torna al form prodotto</a>
+</div>

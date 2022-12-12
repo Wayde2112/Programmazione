@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\bin\Debug\Liste.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\bin\Debug\Liste.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\bin\Debug\Liste.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\obj\Debug\Liste.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\obj\Debug\Liste.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\obj\Debug\Liste.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\obj\Debug\Liste.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Liste\Liste\obj\Debug\Liste.pdb

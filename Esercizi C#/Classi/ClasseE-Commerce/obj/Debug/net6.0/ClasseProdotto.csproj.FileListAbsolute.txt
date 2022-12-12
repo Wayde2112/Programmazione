@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\bin\Debug\net6.0\ClasseProdotto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\bin\Debug\net6.0\ClasseProdotto.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\bin\Debug\net6.0\ClasseProdotto.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\bin\Debug\net6.0\ClasseProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\bin\Debug\net6.0\ref\ClasseProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\bin\Debug\net6.0\ClasseProdotto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ref\ClasseProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseE-Commerce\obj\Debug\net6.0\ClasseProdotto.genruntimeconfig.cache

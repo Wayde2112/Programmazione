@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a567578-2238-4835-8022-7586815c21fe": {
+      "ProjectGuid": "4a567578-2238-4835-8022-7586815c21fe",
+      "DisplayName": "Somma2Interi",
+      "ColorIndex": 0
+    },
+    "b6e7693d-6456-40a0-87f5-f9b7f9a66dd7": {
+      "ProjectGuid": "b6e7693d-6456-40a0-87f5-f9b7f9a66dd7",
+      "DisplayName": "Divisione2Interi",
+      "ColorIndex": 1
+    },
+    "5b858315-81b1-4ff4-bc1b-5eddf5fe1d16": {
+      "ProjectGuid": "5b858315-81b1-4ff4-bc1b-5eddf5fe1d16",
+      "DisplayName": "ProdottoQuantitaSconto",
+      "ColorIndex": 2
+    },
+    "dd748f9e-e1c6-4217-b456-116f431a1f40": {
+      "ProjectGuid": "dd748f9e-e1c6-4217-b456-116f431a1f40",
+      "DisplayName": "QuadratoConsole",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

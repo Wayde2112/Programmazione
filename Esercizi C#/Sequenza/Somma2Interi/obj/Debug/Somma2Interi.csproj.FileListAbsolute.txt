@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\bin\Debug\Somma2Interi.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\bin\Debug\Somma2Interi.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\bin\Debug\Somma2Interi.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\obj\Debug\Somma2Interi.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\obj\Debug\Somma2Interi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\obj\Debug\Somma2Interi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\obj\Debug\Somma2Interi.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Somma2Interi\obj\Debug\Somma2Interi.pdb

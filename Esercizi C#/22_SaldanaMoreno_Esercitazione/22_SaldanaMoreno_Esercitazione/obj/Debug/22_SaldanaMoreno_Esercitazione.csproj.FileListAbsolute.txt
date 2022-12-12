@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\obj\Debug\22_SaldanaMoreno_Esercitazione.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\obj\Debug\22_SaldanaMoreno_Esercitazione.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\obj\Debug\22_SaldanaMoreno_Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\bin\Debug\22_SaldanaMoreno_Esercitazione.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\bin\Debug\22_SaldanaMoreno_Esercitazione.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\bin\Debug\22_SaldanaMoreno_Esercitazione.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\obj\Debug\22_SaldanaMoreno_Esercitazione.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\22_SaldanaMoreno_Esercitazione\22_SaldanaMoreno_Esercitazione\obj\Debug\22_SaldanaMoreno_Esercitazione.pdb

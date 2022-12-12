@@ -1,0 +1,90 @@
+﻿@model PrestitiBiblioteca.Models.Libro
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Libro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Autore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Autore)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titolo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titolo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Editore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Editore)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Anno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Anno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Luogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Luogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pagine)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pagine)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Classificazione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Classificazione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Collocazione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Collocazione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Copie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Copie)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Codice }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

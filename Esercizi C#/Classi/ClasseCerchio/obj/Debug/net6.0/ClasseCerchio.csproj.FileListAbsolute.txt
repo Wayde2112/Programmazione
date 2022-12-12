@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\bin\Debug\net6.0\ClasseCerchio.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\bin\Debug\net6.0\ClasseCerchio.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\bin\Debug\net6.0\ClasseCerchio.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\bin\Debug\net6.0\ClasseCerchio.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\bin\Debug\net6.0\ref\ClasseCerchio.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\bin\Debug\net6.0\ClasseCerchio.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ref\ClasseCerchio.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Classi\ClasseCerchio\obj\Debug\net6.0\ClasseCerchio.genruntimeconfig.cache

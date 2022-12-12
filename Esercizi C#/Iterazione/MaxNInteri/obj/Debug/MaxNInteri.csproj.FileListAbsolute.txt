@@ -1,0 +1,7 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\bin\Debug\MaxNInteri.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\bin\Debug\MaxNInteri.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\bin\Debug\MaxNInteri.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\obj\Debug\MaxNInteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\obj\Debug\MaxNInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\obj\Debug\MaxNInteri.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\MaxNInteri\obj\Debug\MaxNInteri.pdb

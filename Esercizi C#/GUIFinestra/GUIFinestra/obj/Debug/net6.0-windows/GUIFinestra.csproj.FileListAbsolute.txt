@@ -1,0 +1,17 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.csproj.GenerateResource.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\bin\Debug\net6.0-windows\GUIFinestra.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\bin\Debug\net6.0-windows\GUIFinestra.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\bin\Debug\net6.0-windows\GUIFinestra.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\bin\Debug\net6.0-windows\GUIFinestra.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\bin\Debug\net6.0-windows\GUIFinestra.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\refint\GUIFinestra.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.genruntimeconfig.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\ref\GUIFinestra.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIFinestra\GUIFinestra\obj\Debug\net6.0-windows\GUIFinestra.Finestra.resources

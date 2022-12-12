@@ -1,0 +1,16 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\bin\Debug\net5.0\NN_Esercitazione.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\bin\Debug\net5.0\NN_Esercitazione.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\bin\Debug\net5.0\NN_Esercitazione.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\bin\Debug\net5.0\NN_Esercitazione.runtimeconfig.dev.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\bin\Debug\net5.0\NN_Esercitazione.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\bin\Debug\net5.0\NN_Esercitazione.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\refint\NN_Esercitazione.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\NN_Esercitazione.genruntimeconfig.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\NN_Esercitazione\NN_Esercitazione\obj\Debug\net5.0\ref\NN_Esercitazione.dll

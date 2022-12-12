@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\bin\Debug\PariDispari.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\bin\Debug\PariDispari.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\bin\Debug\PariDispari.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\obj\Debug\PariDispari.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\obj\Debug\PariDispari.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\obj\Debug\PariDispari.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\obj\Debug\PariDispari.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\PariDispari\obj\Debug\PariDispari.csproj.AssemblyReference.cache

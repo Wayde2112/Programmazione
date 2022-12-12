@@ -1,0 +1,57 @@
+﻿@model IEnumerable<PrestitiBiblioteca.Models.Prestito>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DataPrestito)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataScadenza)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataRestituzione)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Libro.Titolo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Studente.Nominativo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataPrestito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataScadenza)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataRestituzione)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Libro.Titolo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Studente.Nominativo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

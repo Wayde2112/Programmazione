@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhPmcxMCFvsmgwA/3w+cUV5YZxUx8yrqq0lqP9GeJgpLqpLvwN3Hfqij283cFVHuPzTsGKaRp3UxcNByKl0r7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ICTS21-23.096\\Desktop\\Programmazione\\Esercizi C#\\Azienda\\Azienda\\Azienda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ICTS21-23.096\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\ICTS21-23.096\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ICTS21-23.096\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ICTS21-23.096\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

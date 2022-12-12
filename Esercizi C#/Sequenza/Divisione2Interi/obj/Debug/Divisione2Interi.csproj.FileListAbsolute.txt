@@ -1,0 +1,7 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\bin\Debug\Divisione2Interi.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\bin\Debug\Divisione2Interi.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\bin\Debug\Divisione2Interi.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\obj\Debug\Divisione2Interi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\obj\Debug\Divisione2Interi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\obj\Debug\Divisione2Interi.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\Divisione2Interi\obj\Debug\Divisione2Interi.pdb

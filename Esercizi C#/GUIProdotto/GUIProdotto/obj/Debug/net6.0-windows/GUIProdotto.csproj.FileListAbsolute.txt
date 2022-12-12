@@ -1,0 +1,17 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\bin\Debug\net6.0-windows\GUIProdotto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\bin\Debug\net6.0-windows\GUIProdotto.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\bin\Debug\net6.0-windows\GUIProdotto.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\bin\Debug\net6.0-windows\GUIProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\bin\Debug\net6.0-windows\GUIProdotto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.Finestra.resources
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.csproj.GenerateResource.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\refint\GUIProdotto.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\GUIProdotto.genruntimeconfig.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GUIProdotto\GUIProdotto\obj\Debug\net6.0-windows\ref\GUIProdotto.dll

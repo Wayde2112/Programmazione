@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="PrestitiBibliotecaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Libro">
+          <Key>
+            <PropertyRef Name="Codice" />
+          </Key>
+          <Property Name="Codice" Type="int" Nullable="false" />
+          <Property Name="Autore" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Titolo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Editore" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Anno" Type="int" />
+          <Property Name="Luogo" Type="nvarchar" MaxLength="50" />
+          <Property Name="Pagine" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Classificazione" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Collocazione" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Copie" Type="int" />
+        </EntityType>
+        <EntityType Name="Prestito">
+          <Key>
+            <PropertyRef Name="IdLibro" />
+            <PropertyRef Name="Matricola" />
+          </Key>
+          <Property Name="IdLibro" Type="int" Nullable="false" />
+          <Property Name="Matricola" Type="int" Nullable="false" />
+          <Property Name="DataPrestito" Type="datetime" Nullable="false" />
+          <Property Name="DataScadenza" Type="datetime" />
+          <Property Name="DataRestituzione" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Studente">
+          <Key>
+            <PropertyRef Name="Matricola" />
+          </Key>
+          <Property Name="Matricola" Type="int" Nullable="false" />
+          <Property Name="Nome" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Cognome" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Classe" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Prestito_Libro">
+          <End Role="Libro" Type="Self.Libro" Multiplicity="1" />
+          <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Libro">
+              <PropertyRef Name="Codice" />
+            </Principal>
+            <Dependent Role="Prestito">
+              <PropertyRef Name="IdLibro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Prestito_Studente">
+          <End Role="Studente" Type="Self.Studente" Multiplicity="1" />
+          <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Studente">
+              <PropertyRef Name="Matricola" />
+            </Principal>
+            <Dependent Role="Prestito">
+              <PropertyRef Name="Matricola" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PrestitiBibliotecaModelStoreContainer">
+          <EntitySet Name="Libro" EntityType="Self.Libro" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Prestito" EntityType="Self.Prestito" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Studente" EntityType="Self.Studente" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Prestito_Libro" Association="Self.FK_Prestito_Libro">
+            <End Role="Libro" EntitySet="Libro" />
+            <End Role="Prestito" EntitySet="Prestito" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Prestito_Studente" Association="Self.FK_Prestito_Studente">
+            <End Role="Studente" EntitySet="Studente" />
+            <End Role="Prestito" EntitySet="Prestito" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PrestitiBibliotecaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Libro">
+          <Key>
+            <PropertyRef Name="Codice" />
+          </Key>
+          <Property Name="Codice" Type="Int32" Nullable="false" />
+          <Property Name="Autore" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Titolo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Editore" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Anno" Type="Int32" />
+          <Property Name="Luogo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Pagine" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Classificazione" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Collocazione" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Copie" Type="Int32" />
+          <NavigationProperty Name="Prestito" Relationship="Self.FK_Prestito_Libro" FromRole="Libro" ToRole="Prestito" />
+        </EntityType>
+        <EntityType Name="Prestito">
+          <Key>
+            <PropertyRef Name="IdLibro" />
+            <PropertyRef Name="Matricola" />
+          </Key>
+          <Property Name="IdLibro" Type="Int32" Nullable="false" />
+          <Property Name="Matricola" Type="Int32" Nullable="false" />
+          <Property Name="DataPrestito" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="DataScadenza" Type="DateTime" Precision="3" />
+          <Property Name="DataRestituzione" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Libro" Relationship="Self.FK_Prestito_Libro" FromRole="Prestito" ToRole="Libro" />
+          <NavigationProperty Name="Studente" Relationship="Self.FK_Prestito_Studente" FromRole="Prestito" ToRole="Studente" />
+        </EntityType>
+        <EntityType Name="Studente">
+          <Key>
+            <PropertyRef Name="Matricola" />
+          </Key>
+          <Property Name="Matricola" Type="Int32" Nullable="false" />
+          <Property Name="Nome" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Cognome" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Classe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Prestito" Relationship="Self.FK_Prestito_Studente" FromRole="Studente" ToRole="Prestito" />
+        </EntityType>
+        <Association Name="FK_Prestito_Libro">
+          <End Role="Libro" Type="Self.Libro" Multiplicity="1" />
+          <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Libro">
+              <PropertyRef Name="Codice" />
+            </Principal>
+            <Dependent Role="Prestito">
+              <PropertyRef Name="IdLibro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Prestito_Studente">
+          <End Role="Studente" Type="Self.Studente" Multiplicity="1" />
+          <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Studente">
+              <PropertyRef Name="Matricola" />
+            </Principal>
+            <Dependent Role="Prestito">
+              <PropertyRef Name="Matricola" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PrestitiBibliotecaEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Libro" EntityType="Self.Libro" />
+          <EntitySet Name="Prestito" EntityType="Self.Prestito" />
+          <EntitySet Name="Studente" EntityType="Self.Studente" />
+          <AssociationSet Name="FK_Prestito_Libro" Association="Self.FK_Prestito_Libro">
+            <End Role="Libro" EntitySet="Libro" />
+            <End Role="Prestito" EntitySet="Prestito" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Prestito_Studente" Association="Self.FK_Prestito_Studente">
+            <End Role="Studente" EntitySet="Studente" />
+            <End Role="Prestito" EntitySet="Prestito" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="PrestitiBibliotecaModelStoreContainer" CdmEntityContainer="PrestitiBibliotecaEntities1">
+          <EntitySetMapping Name="Libro">
+            <EntityTypeMapping TypeName="PrestitiBibliotecaModel.Libro">
+              <MappingFragment StoreEntitySet="Libro">
+                <ScalarProperty Name="Codice" ColumnName="Codice" />
+                <ScalarProperty Name="Autore" ColumnName="Autore" />
+                <ScalarProperty Name="Titolo" ColumnName="Titolo" />
+                <ScalarProperty Name="Editore" ColumnName="Editore" />
+                <ScalarProperty Name="Anno" ColumnName="Anno" />
+                <ScalarProperty Name="Luogo" ColumnName="Luogo" />
+                <ScalarProperty Name="Pagine" ColumnName="Pagine" />
+                <ScalarProperty Name="Classificazione" ColumnName="Classificazione" />
+                <ScalarProperty Name="Collocazione" ColumnName="Collocazione" />
+                <ScalarProperty Name="Copie" ColumnName="Copie" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Prestito">
+            <EntityTypeMapping TypeName="PrestitiBibliotecaModel.Prestito">
+              <MappingFragment StoreEntitySet="Prestito">
+                <ScalarProperty Name="IdLibro" ColumnName="IdLibro" />
+                <ScalarProperty Name="Matricola" ColumnName="Matricola" />
+                <ScalarProperty Name="DataPrestito" ColumnName="DataPrestito" />
+                <ScalarProperty Name="DataScadenza" ColumnName="DataScadenza" />
+                <ScalarProperty Name="DataRestituzione" ColumnName="DataRestituzione" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Studente">
+            <EntityTypeMapping TypeName="PrestitiBibliotecaModel.Studente">
+              <MappingFragment StoreEntitySet="Studente">
+                <ScalarProperty Name="Matricola" ColumnName="Matricola" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="Cognome" ColumnName="Cognome" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Classe" ColumnName="Classe" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Nessuno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

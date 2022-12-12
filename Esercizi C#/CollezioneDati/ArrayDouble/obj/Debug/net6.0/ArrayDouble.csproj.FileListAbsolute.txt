@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\bin\Debug\net6.0\ArrayDouble.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\bin\Debug\net6.0\ArrayDouble.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\bin\Debug\net6.0\ArrayDouble.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\bin\Debug\net6.0\ArrayDouble.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\bin\Debug\net6.0\ref\ArrayDouble.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\bin\Debug\net6.0\ArrayDouble.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ref\ArrayDouble.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayDouble\obj\Debug\net6.0\ArrayDouble.genruntimeconfig.cache

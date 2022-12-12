@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\bin\Debug\QuadratoNSommaDispari.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\bin\Debug\QuadratoNSommaDispari.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\bin\Debug\QuadratoNSommaDispari.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\obj\Debug\QuadratoNSommaDispari.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\obj\Debug\QuadratoNSommaDispari.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\obj\Debug\QuadratoNSommaDispari.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\obj\Debug\QuadratoNSommaDispari.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Iterazione\QuadratoNSommaDispari\obj\Debug\QuadratoNSommaDispari.pdb

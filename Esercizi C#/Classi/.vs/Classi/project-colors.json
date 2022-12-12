@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db33df30-1832-4d73-80a6-888a17b29618": {
+      "ProjectGuid": "db33df30-1832-4d73-80a6-888a17b29618",
+      "DisplayName": "Quadrato",
+      "ColorIndex": 0
+    },
+    "2b049a3f-ae0c-4c7c-8173-ce2c26b77f4f": {
+      "ProjectGuid": "2b049a3f-ae0c-4c7c-8173-ce2c26b77f4f",
+      "DisplayName": "ClasseQuadrato",
+      "ColorIndex": 1
+    },
+    "ff46ea5e-a8af-4f2d-8852-92d26fba4924": {
+      "ProjectGuid": "ff46ea5e-a8af-4f2d-8852-92d26fba4924",
+      "DisplayName": "ClasseCerchio",
+      "ColorIndex": 2
+    },
+    "bca391e7-cb9c-4c18-9a0c-e0082c55ea2b": {
+      "ProjectGuid": "bca391e7-cb9c-4c18-9a0c-e0082c55ea2b",
+      "DisplayName": "ClasseRettangolo",
+      "ColorIndex": 3
+    },
+    "984eef9b-01fc-40f9-97d0-a177f60cc253": {
+      "ProjectGuid": "984eef9b-01fc-40f9-97d0-a177f60cc253",
+      "DisplayName": "ClasseTriangolo",
+      "ColorIndex": 4
+    },
+    "fb1774aa-bbbd-4a05-b4b7-dd3e5d740932": {
+      "ProjectGuid": "fb1774aa-bbbd-4a05-b4b7-dd3e5d740932",
+      "DisplayName": "ClassePunto",
+      "ColorIndex": 5
+    },
+    "7be84a6d-e72c-4884-9daa-05bc819b3b1b": {
+      "ProjectGuid": "7be84a6d-e72c-4884-9daa-05bc819b3b1b",
+      "DisplayName": "ClassePersona",
+      "ColorIndex": 6
+    },
+    "e92ed257-3545-4055-9a72-7792a839c8da": {
+      "ProjectGuid": "e92ed257-3545-4055-9a72-7792a839c8da",
+      "DisplayName": "ClasseAuto",
+      "ColorIndex": 7
+    },
+    "96bcdaaa-f0f1-404a-b0ae-dde5b8f6cb5e": {
+      "ProjectGuid": "96bcdaaa-f0f1-404a-b0ae-dde5b8f6cb5e",
+      "DisplayName": "ClasseProdotto",
+      "ColorIndex": 8
+    },
+    "7e495783-25f3-4e18-9ebb-f8de32db3f1a": {
+      "ProjectGuid": "7e495783-25f3-4e18-9ebb-f8de32db3f1a",
+      "DisplayName": "ClasseMessaggio",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

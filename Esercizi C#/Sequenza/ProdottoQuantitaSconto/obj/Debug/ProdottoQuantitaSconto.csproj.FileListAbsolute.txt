@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\bin\Debug\ProdottoQuantitaSconto.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\bin\Debug\ProdottoQuantitaSconto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\bin\Debug\ProdottoQuantitaSconto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\obj\Debug\ProdottoQuantitaSconto.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\obj\Debug\ProdottoQuantitaSconto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\obj\Debug\ProdottoQuantitaSconto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\obj\Debug\ProdottoQuantitaSconto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\ProdottoQuantitaSconto\obj\Debug\ProdottoQuantitaSconto.pdb

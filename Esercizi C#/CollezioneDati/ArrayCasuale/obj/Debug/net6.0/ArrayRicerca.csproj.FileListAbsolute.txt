@@ -1,0 +1,15 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\bin\Debug\net6.0\ArrayRicerca.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\bin\Debug\net6.0\ArrayRicerca.deps.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\bin\Debug\net6.0\ArrayRicerca.runtimeconfig.json
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\bin\Debug\net6.0\ArrayRicerca.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\bin\Debug\net6.0\ref\ArrayRicerca.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\bin\Debug\net6.0\ArrayRicerca.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.AssemblyInfoInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.AssemblyInfo.cs
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ref\ArrayRicerca.dll
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\CollezioneDati\ArrayCasuale\obj\Debug\net6.0\ArrayRicerca.genruntimeconfig.cache

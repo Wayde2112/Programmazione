@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\GestioneFileOggetti.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\GestioneFileOggetti.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\GestioneFileOggetti.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\GestioneFileOggetti.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\GestioneFileOggetti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\GestioneFileOggetti.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\GestioneFileOggetti.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\GestioneFileOggetti.pdb

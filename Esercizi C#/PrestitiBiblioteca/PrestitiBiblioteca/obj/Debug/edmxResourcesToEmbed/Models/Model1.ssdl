@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PrestitiBibliotecaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Libro">
+    <Key>
+      <PropertyRef Name="Codice" />
+    </Key>
+    <Property Name="Codice" Type="int" Nullable="false" />
+    <Property Name="Autore" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Titolo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Editore" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Anno" Type="int" />
+    <Property Name="Luogo" Type="nvarchar" MaxLength="50" />
+    <Property Name="Pagine" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Classificazione" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Collocazione" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Copie" Type="int" />
+  </EntityType>
+  <EntityType Name="Prestito">
+    <Key>
+      <PropertyRef Name="IdLibro" />
+      <PropertyRef Name="Matricola" />
+    </Key>
+    <Property Name="IdLibro" Type="int" Nullable="false" />
+    <Property Name="Matricola" Type="int" Nullable="false" />
+    <Property Name="DataPrestito" Type="datetime" Nullable="false" />
+    <Property Name="DataScadenza" Type="datetime" />
+    <Property Name="DataRestituzione" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Studente">
+    <Key>
+      <PropertyRef Name="Matricola" />
+    </Key>
+    <Property Name="Matricola" Type="int" Nullable="false" />
+    <Property Name="Nome" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cognome" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Classe" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Prestito_Libro">
+    <End Role="Libro" Type="Self.Libro" Multiplicity="1" />
+    <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Libro">
+        <PropertyRef Name="Codice" />
+      </Principal>
+      <Dependent Role="Prestito">
+        <PropertyRef Name="IdLibro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Prestito_Studente">
+    <End Role="Studente" Type="Self.Studente" Multiplicity="1" />
+    <End Role="Prestito" Type="Self.Prestito" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Studente">
+        <PropertyRef Name="Matricola" />
+      </Principal>
+      <Dependent Role="Prestito">
+        <PropertyRef Name="Matricola" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PrestitiBibliotecaModelStoreContainer">
+    <EntitySet Name="Libro" EntityType="Self.Libro" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Prestito" EntityType="Self.Prestito" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Studente" EntityType="Self.Studente" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Prestito_Libro" Association="Self.FK_Prestito_Libro">
+      <End Role="Libro" EntitySet="Libro" />
+      <End Role="Prestito" EntitySet="Prestito" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Prestito_Studente" Association="Self.FK_Prestito_Studente">
+      <End Role="Studente" EntitySet="Studente" />
+      <End Role="Prestito" EntitySet="Prestito" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

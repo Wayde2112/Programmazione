@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\bin\Debug\QuadratoConsole.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\bin\Debug\QuadratoConsole.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\bin\Debug\QuadratoConsole.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\obj\Debug\QuadratoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\obj\Debug\QuadratoConsole.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\obj\Debug\QuadratoConsole.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\obj\Debug\QuadratoConsole.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Sequenza\QuadratoConsole\obj\Debug\QuadratoConsole.csproj.AssemblyReference.cache

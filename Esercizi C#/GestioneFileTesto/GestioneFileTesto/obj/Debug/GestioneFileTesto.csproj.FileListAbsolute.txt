@@ -1,0 +1,8 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\bin\Debug\GestioneFileTesto.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\bin\Debug\GestioneFileTesto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\bin\Debug\GestioneFileTesto.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\obj\Debug\GestioneFileTesto.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\obj\Debug\GestioneFileTesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\obj\Debug\GestioneFileTesto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\obj\Debug\GestioneFileTesto.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\GestioneFileTesto\GestioneFileTesto\obj\Debug\GestioneFileTesto.pdb

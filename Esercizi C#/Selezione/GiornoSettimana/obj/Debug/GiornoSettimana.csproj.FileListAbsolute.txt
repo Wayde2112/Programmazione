@@ -1,0 +1,7 @@
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\bin\Debug\GiornoSettimana.exe.config
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\bin\Debug\GiornoSettimana.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\bin\Debug\GiornoSettimana.pdb
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\obj\Debug\GiornoSettimana.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\obj\Debug\GiornoSettimana.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\obj\Debug\GiornoSettimana.exe
+C:\Users\ICTS21-23.096\Desktop\Programmazione\Esercizi C#\Selezione\GiornoSettimana\obj\Debug\GiornoSettimana.pdb
